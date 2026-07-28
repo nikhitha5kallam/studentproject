@@ -1,0 +1,1 @@
+pull operation using fetch and merge method
